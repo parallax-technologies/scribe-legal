@@ -11,7 +11,7 @@ bundle install
 bundle exec jekyll serve
 ```
 
-The privacy policy is available at `/privacy/`.
+The privacy policy is available at the site root.
 
 ## Deployment
 
