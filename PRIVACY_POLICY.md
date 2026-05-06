@@ -79,12 +79,4 @@ This policy may be updated when Scribe's features or data practices change. The 
 
 For material privacy changes, Scribe will update the App Store privacy information and, where appropriate, provide notice in the app or release notes.
 
-## Contact
-
-If you have questions about this privacy policy or want help deleting local app data, contact:
-
-`privacy@example.com`
-
-Replace this email address with the real support or privacy contact before publishing the App Store listing.
-
 </article>
