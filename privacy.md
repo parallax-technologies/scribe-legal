@@ -2,7 +2,7 @@
 layout: default
 title: Privacy Policy
 description: Privacy policy for the Scribe offline meeting note-taking app.
-permalink: /privacy-policy/
+permalink: /privacy/
 ---
 
 <article class="page" markdown="1">

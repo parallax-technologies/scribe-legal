@@ -1,0 +1,19 @@
+title: Scribe Legal
+description: Privacy and legal information for the Scribe offline meeting note-taking app.
+url: ""
+baseurl: ""
+lang: en
+timezone: Europe/Bucharest
+
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
