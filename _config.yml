@@ -1,7 +1,7 @@
 title: Scribe Legal
 description: Privacy and legal information for the Scribe offline meeting note-taking app.
-url: ""
-baseurl: ""
+url: "https://parallax-technologies.github.io"
+baseurl: "/scribe-legal"
 lang: en
 timezone: Europe/Bucharest
 
@@ -13,7 +13,9 @@ plugins:
   - jekyll-sitemap
 
 exclude:
+  - .bundle
   - Gemfile
   - Gemfile.lock
   - README.md
-
+  - vendor
+  - vendor/bundle
